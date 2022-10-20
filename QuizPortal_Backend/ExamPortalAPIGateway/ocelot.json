@@ -1,0 +1,253 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/api/User",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10006
+        }
+      ],
+      "DownstreamPathTemplate": "/api/User"
+    },
+    {
+      "UpstreamPathTemplate": "/api/User/id?id={id}",
+      "UpstreamHttpMethod": [ "DELETE" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10006
+        }
+      ],
+      "DownstreamPathTemplate": "/api/User/id?id={id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/User/id?name={name}",
+      "UpstreamHttpMethod": [ "GET" ],
+
+
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10006
+        }
+      ],
+      "DownstreamPathTemplate": "/api/User/id?name={name}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/User",
+      "UpstreamHttpMethod": [ "POST" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10006
+        }
+      ],
+      "DownstreamPathTemplate": "/api/User"
+    },
+    {
+      "UpstreamPathTemplate": "/api/User/Authenticate",
+      "UpstreamHttpMethod": [ "POST" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10006
+        }
+      ],
+      "DownstreamPathTemplate": "/api/User/Authenticate"
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/User/Validate",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10006
+        }
+      ],
+      "DownstreamPathTemplate": "/api/User/Validate"
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/User?id={id}",
+      "UpstreamHttpMethod": [ "PUT" ],
+
+
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10006
+        }
+      ],
+      "DownstreamPathTemplate": "/api/User?id={id}"
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/User/Add",
+      "UpstreamHttpMethod": [ "POST" ],
+
+
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10006
+        }
+      ],
+      "DownstreamPathTemplate": "/api/User/Add"
+    },
+
+    //question 
+    {
+      "UpstreamPathTemplate": "/api/Question",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10005
+        }
+
+      ],
+      "DownstreamPathTemplate": "/api/Question"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Question/Id?id={id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10005
+        }
+
+      ],
+      "DownstreamPathTemplate": "/api/Question/Id?id={id}"
+    },
+
+    //result
+
+    {
+      "UpstreamPathTemplate": "/api/Result",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10004
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Result"
+
+    },
+    {
+      "UpstreamPathTemplate": "/api/Result/Id?id={id}",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10004
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Result/Id?id={id}"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Result/username?username={username}",
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10004
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Result/username?username={username}"
+    },
+
+    //quiz
+
+    {
+      "UpstreamPathTemplate": "/api/Quiz",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10003
+        }
+      ],
+      "DownstreamPathTemplate": "/api/quiz"
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/Quiz/Id?id={id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10003
+        }
+      ],
+      "DownstreamPathTemplate": "/api/quiz/Id?id={id}"
+    },
+
+    //questionGroup
+    {
+      "UpstreamPathTemplate": "/api/QuestionGroup",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10002
+        }
+      ],
+      "DownstreamPathTemplate": "/api/QuestionGroup"
+    },
+
+    {
+      "UpstreamPathTemplate": "/api/QuestionGroup/Id?id={id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10002
+        }
+      ],
+      "DownstreamPathTemplate": "/api/QuestionGroup/Id?id={id}"
+    }
+  ],
+  "GlobalConfiguration": {
+
+  }
+}
+

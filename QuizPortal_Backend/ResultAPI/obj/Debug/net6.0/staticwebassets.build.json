@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vBEagq9SOa7Q5Q0fklYHdPeecXzuHYE0IVm6iSozOqg=",
+  "Source": "ResultMicroserviceAPI",
+  "BasePath": "_content/ResultMicroserviceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
+      integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <!-- <script src="https://kit.fontawesome.com/c26cd2166c.js"></script> -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
+    <title>Online Exam!</title>
+</head>
+
+  <div class="navbar-cls">
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <div class="container-fluid">
+        <ul class="navbar-nav mr-auto">      
+          
+          <li class="nav-item active">
+          <a class="navbar-brand navbar-text" 
+          ><img src="https://media.glassdoor.com/sqll/255019/zensar-technologies-squareLogo-1627624252446.png" style="width: 50px;"/> <span class="sr-only">(current)</span></a></li>
+
+          <li class="nav-item active">        
+            <a class="navbar-brand navbar-text"  href="./userdashboard">Home <span class="sr-only">(current)</span></a></li>
+
+         </ul>
+        <!-- <a class="navbar-brand navbar-text" routerLink="/userdashboard"
+          >Zensar Technologies - Online Exam</a
+        > -->
+        <div class="d-flex">
+          <button id="logoutbtn" class="btn btn-secondary m-1" type="submit"  (click)="logout()">LOGOUT</button>
+        </div>
+        
+      </div>
+    </nav>
+  </div>
+
+  <body>
+    <div class="get-search-bar">
+      <form>
+        <input
+          class="inp my-3 px-3"
+          type="text"
+          placeholder="Search by Quiz title..."
+          name="search"
+          [(ngModel)]="searchText"
+         
+          required
+        />
+        
+      </form>
+    </div>
+    <!-- <div class="container"> -->
+    <table class="table table-light table-bordered mt-3">
+
+        <thead>
+            <tr>
+              <th scope="col">Sl.No</th>
+              <th scope="col">Quiz Title</th>
+              <th scope="col">Exam Date</th>
+              <th scope="col">Marks Obtained</th>              
+            </tr>
+          </thead>
+          <tbody>
+           <tr  *ngFor="let result of results  | paginate:{itemsPerPage: tableSize,currentPage:page,totalItems:count} | filter:searchText ;let i=index">
+                <td>{{tableSize*(page-1)+i+1}}</td>
+                <td>{{result.quizTitle}}</td>
+                <td>{{result.examDate|date:'MMM dd, yyyy'}}</td>
+                <td>{{result.marksObtained}}</td>                
+          </tr>
+    </table>
+
+  </body>
+
+  <div>
+
+    <pagination-controls
+
+      previousLabel="Prev"
+
+      nextLabel="Next"
+
+      (pageChange)="onTableDataChange($event)"
+
+      >
+
+    </pagination-controls>
+
+  </div>
+
+
+  <div class="footer-cls">
+    <footer>
+      <div class="footer-text">
+        COPYRIGHT 2022 ALL RIGHTS RESERVED. DEVELOPED BY ZENSAR TECHNOLOGIES
+      </div>
+    </footer>
+  </div>
+

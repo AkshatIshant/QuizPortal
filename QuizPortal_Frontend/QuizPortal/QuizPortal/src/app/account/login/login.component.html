@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet" />
+  <title>Online Exam!</title>
+
+</head>
+
+<body class="bg-light">
+  
+  <section class="login py-5 bg-secondary">
+    <div class="container">
+      <div class="row g-1 mt-5">
+        <div class="col-lg-5 col-md-5 col-sm-12 col-12">
+          <img src="https://writemyassignmentforme.co.uk/img/s8_img1.png" class="img-fluid" alt="zensar-logo" />
+        </div>
+
+        <div class="col-lg-7 col-md-7 col-sm-12 col-12 text-center py-5">
+          <h1 class="animate__animated animate__heartBeat">Welcome to Exam Portal</h1>
+          <form novalidate #form="ngForm" (ngSubmit)="authenticate(form)">
+            <div class="form-row py-3 pt-5">
+              <div class="offset-1 col-lg-10">
+                <input class="inp my-3 px-3" type="text" placeholder="Username" name="username" [(ngModel)]="username"
+                  required />
+              </div>
+
+            </div>
+
+            <div class="form-row">
+              <div class="offset-1 col-lg-10">
+                <input placeholder="Password" class="inp px-3" type="password" name="password" [(ngModel)]="password"
+                  required />
+              </div>
+            </div>
+
+            <div *ngIf="errorMessage != null" class="help-block text-danger text-center " >
+              {{ errorMessage }}
+            </div>
+
+            <div class="form-row py-3">
+           
+              <div class="offset-1 col-lg-10">
+                <button id="button-signin" type="button" class="btn1" type="submit">
+                  Sign in
+                </button>
+              </div>
+            </div>
+          </form>
+          <a routerLink="/register" class="link-primary underline-cls">Don't have an account? Click here!
+
+          </a><br />
+        </div>
+      </div>
+    </div>
+  </section>
+</body>
+
+</html>

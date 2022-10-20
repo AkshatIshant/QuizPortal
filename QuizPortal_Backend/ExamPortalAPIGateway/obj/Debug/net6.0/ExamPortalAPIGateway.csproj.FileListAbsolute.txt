@@ -1,0 +1,96 @@
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\ExamPortalAPIGateway.exe
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\ExamPortalAPIGateway.deps.json
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\ExamPortalAPIGateway.runtimeconfig.json
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\ExamPortalAPIGateway.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\ExamPortalAPIGateway.pdb
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.csproj.AssemblyReference.cache
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.AssemblyInfoInputs.cache
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.AssemblyInfo.cs
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.csproj.CoreCompileInputs.cache
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\scopedcss\bundle\ExamPortalAPIGateway.styles.css
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.csproj.CopyComplete
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\refint\ExamPortalAPIGateway.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.pdb
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.genruntimeconfig.cache
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ref\ExamPortalAPIGateway.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\appsettings.Development.json
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\appsettings.json
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\ocelot.json
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\ExamPortalAPIGateway.exe
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\ExamPortalAPIGateway.deps.json
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\ExamPortalAPIGateway.runtimeconfig.json
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\ExamPortalAPIGateway.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\ExamPortalAPIGateway.pdb
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\FluentValidation.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Ocelot.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.csproj.AssemblyReference.cache
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.AssemblyInfoInputs.cache
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.AssemblyInfo.cs
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.csproj.CoreCompileInputs.cache
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\staticwebassets.build.json
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\staticwebassets.development.json
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\scopedcss\bundle\ExamPortalAPIGateway.styles.css
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.csproj.CopyComplete
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\refint\ExamPortalAPIGateway.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.pdb
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.genruntimeconfig.cache
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ref\ExamPortalAPIGateway.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\appsettings.Development.json
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\appsettings.json
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\ocelot.json
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\ExamPortalAPIGateway.exe
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\ExamPortalAPIGateway.deps.json
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\ExamPortalAPIGateway.runtimeconfig.json
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\ExamPortalAPIGateway.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\ExamPortalAPIGateway.pdb
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\FluentValidation.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\bin\Debug\net6.0\Ocelot.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.csproj.AssemblyReference.cache
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.AssemblyInfoInputs.cache
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.AssemblyInfo.cs
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.csproj.CoreCompileInputs.cache
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\staticwebassets.build.json
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\staticwebassets.development.json
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\scopedcss\bundle\ExamPortalAPIGateway.styles.css
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.csproj.CopyComplete
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\refint\ExamPortalAPIGateway.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.pdb
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ExamPortalAPIGateway.genruntimeconfig.cache
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\ExamPortalAPIGateway\obj\Debug\net6.0\ref\ExamPortalAPIGateway.dll

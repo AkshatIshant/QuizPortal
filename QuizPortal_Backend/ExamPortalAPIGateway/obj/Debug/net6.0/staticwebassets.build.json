@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n4500VhwyjxyNOOIkFOioBdXtRohUzosT5c3Zlhhi9M=",
+  "Source": "ExamPortalAPIGateway",
+  "BasePath": "_content/ExamPortalAPIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

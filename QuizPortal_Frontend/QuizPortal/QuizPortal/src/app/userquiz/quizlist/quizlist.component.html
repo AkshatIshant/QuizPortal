@@ -1,0 +1,135 @@
+
+
+    
+<div class="container mt-5">
+    <div class="card">
+        <ng-container *ngIf="!isQuizCompleted && !pageRefreshed">
+            <div class="d-flex justify-content-between p-3">
+                <div class="image">
+
+                    <img src="data:image/png;base64,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"
+                        width="50" alt="logo">
+                </div>
+
+                <div class="text-align:center">
+                    <h4> EXAM PORTAL </h4>
+                </div>
+                <div class="quiz-header">
+                    <h3 style="font-family: cursive;font-style:#008000 ;">{{quizelement.quizTitle}}</h3>
+                    <span style="font-style: italic ; font-weight:bold;">Welcome {{userName}}</span>
+                </div>
+            </div>
+
+            <div class="d-flex justify-content-between py-3">
+                <!-- <div class="score">
+                    <h5>{{points}} Points</h5>
+                </div> -->
+                <div class="question-remain" >
+                    <h5  style="font-style: italic;">Question {{currentQuestion+1}} of {{quizquestions.length}}
+
+                    </h5>
+                </div>
+                <div class="timer">
+                    <!-- <h5>{{counter}} sec ⏱</h5> -->
+                    <div>
+                        <h5 [ngStyle]="{'color': (quizTimer < 300) ? 'red' : ((quizTimer >= 300) ? 'black' : null) }">🕘: {{getFormattedTime()}}</h5>
+                    </div>
+                </div>
+            </div>
+
+            <div class="question">
+                <div class="card">
+                    <h3><span>{{currentQuestion+1}}.) </span>{{quizquestions[currentQuestion].questionText}}
+                        <span *ngIf="marksBasis()===2">
+                            <h6 style="color:rgb(7, 26, 1)">(2 marks)</h6>
+                        </span>
+                        <span *ngIf="marksBasis()===3">
+                            <h6 style="color:rgb(4, 5, 112)">(3 marks)</h6>
+                        </span>
+                        <span *ngIf="marksBasis()===5">
+                            <h6 style="color:rgb(182, 13, 13)">(5 marks)</h6>
+                        </span>
+                    </h3>
+                </div>
+            </div>
+            <div class="options">
+
+                <ol>
+                    <div class="col-md-6" >
+                        <h5>
+                        <input type="radio" value={{quizquestions[currentQuestion].option1}} name="option"
+                            [(ngModel)]="quizquestions[currentQuestion].givenAnswer">
+                        {{quizquestions[currentQuestion].option1}}</h5>
+                    </div>
+                    <div class="col-md-6">
+                        <h5>
+                        <input type="radio" value={{quizquestions[currentQuestion].option2}} name="option"
+                            [(ngModel)]="quizquestions[currentQuestion].givenAnswer">
+                        {{quizquestions[currentQuestion].option2}}</h5>
+                    </div>
+                    <div class="col-md-6">
+                        <h5>
+                        <input type="radio" value={{quizquestions[currentQuestion].option3}} name="option"
+                            [(ngModel)]="quizquestions[currentQuestion].givenAnswer">
+                        {{quizquestions[currentQuestion].option3}}</h5>
+                    </div>
+                    <div class="col-md-6">
+                        <h5>
+                        <input type="radio" value={{quizquestions[currentQuestion].option4}} name="option"
+                            [(ngModel)]="quizquestions[currentQuestion].givenAnswer">
+                        {{quizquestions[currentQuestion].option4}}</h5>
+                    </div>
+
+
+
+                </ol>
+            </div>
+            <div class="d-flex justify-content-between">
+                <button [disabled]="currentQuestion===0" class="btn" (click)="previousQuestion()">
+                    <i class="fa text-primary fa-chevron-left fa-2x" aria-hidden="true"></i></button>
+                <!-- <button class="btn" (click)="resetQuiz()"><i class="fa fa-refresh text-primary fa-3x" aria-hidden="true"></i></button> -->
+                <!-- <button class="btn" ><i class="fa fa-refresh text-primary fa-3x" aria-hidden="true"></i></button> -->
+                <button [disabled]="currentQuestion===quizquestions.length-1" class="btn," (click)="nextQuestion()">
+                    <i class="fa text-primary fa-chevron-right fa-2x" aria-hidden="true"></i></button>
+                <button mat-raised-button color="primary" class="btn btn-danger" (click)="onSubmit()">Submit</button>
+            </div>
+        </ng-container>
+        <ng-container *ngIf="isQuizCompleted && !pageRefreshed">
+            <div class="row d-flex justify-content-between">
+                <img style="width: 50%;" class="img-fluid col-sm-12 mx-auto"
+                    src="https://static6.depositphotos.com/1034557/616/i/950/depositphotos_6161806-stock-photo-magnifying-glass-results.jpg"
+                    alt="">
+                <div class="result text-center col-md-6 col-sm-12">
+                    <h3> <br>You have completed the quiz. <br>Below is your result:</h3>
+                    <h5 style="color:rgb(35, 110, 160)">Total Question Attempted : {{attemted}} </h5>
+                    <h5 style="color:rgb(44, 156, 10)">Total Correct Answered : {{correctAnswer}} </h5>
+                    <h5 style="color:rgb(214, 20, 14)">Total Wrong Answered : {{inCorrectAnswer}} </h5>
+                    <h5 >Your Score : ({{marksGot}}/{{totalMarks}}) Marks </h5>
+
+                    <button type="button" class="btn btn-info" routerLink="/userresult">Go to My Results</button>
+                </div>
+            </div>
+
+            <!-- bar chart -->
+
+            <!-- <p>This is my Result chart</p>
+            <div id="divChart">
+                <canvas id="Chart">{{Chart}}</canvas>
+
+            </div> -->
+        </ng-container>
+        
+<ng-container *ngIf="pageRefreshed">
+<div class="containerrrr"> <img
+ src="https://th.bing.com/th/id/OIP.cbPmBc6YmYm00kvxLTRaNQHaFj?pid=ImgDet&rs=1"
+ alt="Snow"> 
+<button class="btn" routerLink="/quizstart"> Go to Quiz </button>
+
+ </div>
+
+ </ng-container>
+
+
+
+</div>
+

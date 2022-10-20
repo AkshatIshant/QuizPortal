@@ -1,0 +1,24 @@
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\bin\Debug\net6.0\JwtAuyhenticationManager.deps.json
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\bin\Debug\net6.0\JwtAuyhenticationManager.dll
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\bin\Debug\net6.0\JwtAuyhenticationManager.pdb
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.csproj.AssemblyReference.cache
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.AssemblyInfoInputs.cache
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.AssemblyInfo.cs
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.csproj.CoreCompileInputs.cache
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.dll
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\obj\Debug\net6.0\refint\JwtAuyhenticationManager.dll
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.pdb
+C:\Users\Natarajan\Trainings\Trainings\Zensar\BAtch 3\ProductsAPI\JwtAuyhenticationManager\obj\Debug\net6.0\ref\JwtAuyhenticationManager.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\JwtAuyhenticationManager\bin\Debug\net6.0\JwtAuyhenticationManager.deps.json
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\JwtAuyhenticationManager\bin\Debug\net6.0\JwtAuyhenticationManager.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\JwtAuyhenticationManager\bin\Debug\net6.0\JwtAuyhenticationManager.pdb
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.csproj.AssemblyReference.cache
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.AssemblyInfoInputs.cache
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.AssemblyInfo.cs
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.csproj.CoreCompileInputs.cache
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\JwtAuyhenticationManager\obj\Debug\net6.0\refint\JwtAuyhenticationManager.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\JwtAuyhenticationManager\obj\Debug\net6.0\JwtAuyhenticationManager.pdb
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\JwtAuyhenticationManager\obj\Debug\net6.0\ref\JwtAuyhenticationManager.dll

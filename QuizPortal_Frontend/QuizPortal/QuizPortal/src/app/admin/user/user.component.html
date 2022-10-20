@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
+      integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <!-- <script src="https://kit.fontawesome.com/c26cd2166c.js"></script> -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
+    <title>Online Exam!</title>
+
+</head>
+ <div class="navbar-cls" *ngIf="(role === 'Admin')">
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <div class="container-fluid">
+             
+          
+          <a class="navbar-brand navbar-text" routerLink="/admindashboard"
+          >Zensar Technologies - Online Exam Portal<span class="sr-only">(current)</span></a>
+         
+
+        <div class="form-group"> <input type="text" class="form-control" placeholder="search..." [(ngModel)]="searchText">
+        </div>
+        <div class="d-flex">
+          <!-- <i class="fa-regular fa-circle-user"></i> -->
+          <button id="logoutbtn" class="btn btn-secondary m-1" (click)="logout()">LOGOUT</button>
+        </div>
+     
+      </div>
+
+    </nav>
+
+  </div>
+
+
+  <body *ngIf="(role === 'Admin')">
+
+    
+    <div class="create-btn-div">
+        <button
+          class="btn btn-dark"
+          data-bs-toggle="modal"
+          data-bs-target="#myModal"
+        >
+          Add User
+        </button>
+      </div>
+    <!-- <div class="container"> -->
+    <table class="table table-light table-bordered mt-3">
+      <thead>
+        <tr>
+          <th scope="col">S.No.</th>
+          <th scope="col">Firstname</th>
+          <th scope="col">Lastname</th>
+          <th scope="col">Username</th>
+          <!-- <th scope="col">Password</th> -->
+          <th scope="col">Role</th>
+          <th scope="col">Email</th>
+          <th scope="col">Contact Number</th>
+          <th scope="col">Action</th>
+          
+          <!-- <th scope="col">Edit</th> -->
+        </tr>
+      </thead>
+      <tbody>
+
+      
+
+        <tr *ngFor="let user of users| filter:searchText| paginate:{itemsPerPage: tableSize,currentPage:page,totalItems:count}; let i = index">
+            <td>{{tableSize*(page-1)+i+1}}</td>
+            <td>{{user.firstName}}</td>
+            <td>{{user.lastName}}</td>
+            <td>{{user.userName}}</td>
+            <!-- <td>{{user.password}}</td> -->
+            <td>{{user.role}}</td>
+            <td>{{user.email}}</td>
+            <td>{{user.contact}}</td>
+        
+              <td>
+                <span data-bs-toggle="modal" data-bs-target="#updateModal">
+                <i
+                  class="fa-solid fa-pen-to-square"
+                  style="cursor: pointer"
+                  (click)="updateId(user)"                          
+                
+                ></i>
+            </span>&nbsp;&nbsp;&nbsp;    
+
+                <span data-bs-toggle="modal" data-bs-target="#deleteModal">
+                        <i class="fa-solid fa-trash" 
+                        style="cursor: pointer"
+                        (click)="deleteId(user)"> </i>
+    
+                </span ></td>
+        </tr>
+       
+      </tbody>
+     
+    </table>
+
+    <!-- </div> -->
+
+    <!-- Create Modal -->
+    <div id="myModal" class="modal fade" id="myModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-scrollable">
+          <div class="modal-content">
+            <!-- Modal Header -->
+            <div class="modal-header">
+              <h4 class="modal-title">Add User</h4>
+              <button
+                type="button"
+                class="btn-close"
+                data-bs-dismiss="modal"
+              ></button>
+            </div>
+  
+            <!-- Modal body -->
+            <div class="modal-body">
+              <form class="row g-3" novalidate #form="ngForm" (ngSubmit)="addUser(form)">
+                <div class="col-12">
+                  <label for="inputAddress" class="form-label">Firstname</label>
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="inputAddress"
+                    name="firstname" [(ngModel)]="user_add.firstName"
+                    required
+                  />
+                </div>
+                <div class="col-12">
+                      <label for="inputAddress" class="form-label">Lastname</label>
+                      <input
+                        type="text"
+                        class="form-control"
+                        id="inputAddress"
+                        name="lastname" [(ngModel)]="user_add.lastName"
+                        required
+                      />
+                </div>
+                <div class="col-12">
+                  <label for="inputAddress" class="form-label">Username</label>
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="inputAddress"
+                    name="username" [(ngModel)]="user_add.userName"
+                    required
+                  />
+                </div>
+                <div class="col-12">
+                  <label for="inputAddress" class="form-label">Password</label>
+                  <input
+                    type="password"
+                    class="form-control"
+                    id="inputAddress"
+                    name="password" [(ngModel)]="user_add.password"
+                    required
+                  /></div>
+                  <div class="col-12">
+                    <label for="inputAddress" class="form-label">Confirm Password</label>
+                    <input
+                      type="password"
+                      class="form-control"
+                      id="inputAddress"
+                      name="confirmpassword" [(ngModel)]="user_add.confirmPassword"
+                      required
+                    />
+                </div>
+                <div class="col-12">
+                  <label for="inputState" class="form-label">Role</label>
+                  <select id="inputState" class="form-select" name="role" [(ngModel)]="user_add.role">
+                    <option selected>Choose...</option>
+                    <option>Admin</option>
+                    <option>Candidate</option>
+                  </select>
+                </div>
+                <div class="col-12">
+                  <label for="inputAddress" class="form-label">Email</label>
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="inputAddress"
+                    name="email" [(ngModel)]="user_add.email"
+                    required
+                  />
+                </div>
+                <div class="col-12">
+                  <label for="inputAddress" class="form-label">Contact Number</label>
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="inputAddress"
+                    name="contact" [(ngModel)]="user_add.contact"
+                    required
+                  />
+                
+
+                 <!-- Modal footer -->
+            
+          <div class="modal-footer d-flex justify-content-center text-align-center"
+          >
+            <button id="addbtn" type="submit" class="modal-create-btn" data-bs-dismiss="modal">Add</button>
+            <button
+              type="button"
+              class="modal-close-btn"
+              data-bs-dismiss="modal"
+            >
+              Close
+            </button>
+          </div>
+          </div>
+              </form>
+            </div>
+  
+           
+          </div>
+        </div>
+      </div>
+      <!-- Update Modal -->
+      <div class="modal" id="updateModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-scrollable">
+          <div class="modal-content">
+            <!-- Modal Header -->
+            <div class="modal-header">
+              <h4 class="modal-title">Update User</h4>
+              <button
+                type="button"
+                class="btn-close"
+                data-bs-dismiss="modal"
+              ></button>
+            </div>
+  
+            <!-- Modal body -->
+            <div class="modal-body">
+              <form class="row g-3">
+                <div class="col-12">
+                  <label for="inputAddress" class="form-label">Firstname</label>
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="inputAddress"
+                    name="firstname" 
+                    [(ngModel)]="user_update.firstName"
+                    required
+                  />
+                  </div>
+                  <div class="col-12">
+                    <label for="inputAddress" class="form-label">Lastname</label>
+                    <input
+                      type="text"
+                      class="form-control"
+                      id="inputAddress"
+                      name="lastname" 
+                      [(ngModel)]="user_update.lastName"
+                      required
+                    />
+                </div>
+                <div class="col-12">
+                  <label for="inputAddress" class="form-label">Username</label>
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="inputAddress"
+                    name="username" 
+                    [(ngModel)]="user_update.userName"
+                    required
+                  />
+              </div>
+              <div class="col-12">
+                <label for="inputAddress" class="form-label">Password</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="inputAddress"
+                  name="password" 
+                    [(ngModel)]="user_update.password"
+                    required
+                />
+            </div>
+            <div class="col-12">
+              <label for="inputAddress" class="form-label">Confirm Password</label>
+              <input
+                type="text"
+                class="form-control"
+                id="inputAddress"
+                name="confirmpassword" 
+                [(ngModel)]="user_update.confirmPassword"
+                required
+              />
+          </div>
+          <div *ngIf="errorMessage != null" class="bg-danger mt-2 p-2 text-center text-white">
+            {{ errorMessage }}
+          </div>
+            <div class="col-12">
+              <label for="inputAddress" class="form-label">Role</label>
+              <input
+                type="text"
+                class="form-control"
+                id="inputAddress"
+                name="role" 
+                    [(ngModel)]="user_update.role"
+                    required
+              />
+          </div>
+          <div class="col-12">
+            <label for="inputAddress" class="form-label">Email</label>
+            <input
+              type="text"
+              class="form-control"
+              id="inputAddress"
+              name="email" 
+              [(ngModel)]="user_update.email"
+              required
+            />
+        </div>
+        <div class="col-12">
+          <label for="inputAddress" class="form-label">Contact number</label>
+          <input
+            type="text"
+            class="form-control"
+            id="inputAddress"
+            name="contact" 
+            [(ngModel)]="user_update.contact"
+            required
+          />
+      </div>
+             
+              
+             
+              </form>
+            </div>
+  
+            <!-- Modal footer -->
+            <div
+              class="modal-footer d-flex justify-content-center text-align-center"
+            >
+              <button type="submit" class="modal-create-btn" (click)="updateUserId(user_update.id)">Update</button>
+              <button
+                type="button"
+                class="modal-close-btn"
+                data-bs-dismiss="modal"
+              >
+                Close
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Delete Modal -->
+      <div class="modal" id="deleteModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <!-- Modal Header -->
+            <div class="modal-header">
+              <h4 class="modal-title">Delete User</h4>
+              <button
+                type="button"
+                class="btn-close"
+                data-bs-dismiss="modal"
+              ></button>
+            </div>
+  
+            <!-- Modal body -->
+            <div class="modal-body">
+              <span class="d-flex justify-content-center text-align-center"
+                >DO YOU WANT TO DELETE THIS USER ?</span
+              >
+            </div>
+  
+            <!-- Modal footer -->
+            <div
+              class="modal-footer d-flex justify-content-center text-align-center"
+            >
+              <button type="submit" class="btn btn-success" (click)="deleteUserId(user_delete.id)">Yes</button>
+              <button
+                type="button"
+                class="btn btn-danger"
+                data-bs-dismiss="modal"
+              >
+                NO
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Modal -->
+     
+    <script>
+      document.getElementById("").onclick = function () {
+        window.location.reload();
+      };
+    </script>
+      <div>
+        <pagination-controls
+          previousLabel="Prev"
+          nextLabel="Next"
+          (pageChange)="onTableDataChange($event)"
+          >
+        </pagination-controls>
+      </div>
+    
+      <div class="footer-cls">
+        <footer>
+          <div class="footer-text">
+            COPYRIGHT © 2022 ALL RIGHTS RESERVED. DEVELOPED BY ZENSAR TECHNOLOGIES
+          </div>
+        </footer>
+      </div>
+  </body>
+
+  <body *ngIf="(role === 'Candidate')">
+    <ng-container>
+     <div class="container"> <img
+        class="rounded float-center"
+              src="https://th.bing.com/th/id/OIP.cbPmBc6YmYm00kvxLTRaNQHaFj?pid=ImgDet&rs=1"
+              alt="Snow" width="60%" height="20%">
+             
+              </div>
+              <div>
+                <button class="btn" routerLink="/"> Go Back </button>
+              </div>
+  </ng-container>
+  </body>
+
+
+</html>

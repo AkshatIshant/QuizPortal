@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UjrP/tYedZw4PLZLtGoSeM8t0mUM20uX4REwlH2iy/E=",
+  "Source": "QuestionMicroserviceAPI",
+  "BasePath": "_content/QuestionMicroserviceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

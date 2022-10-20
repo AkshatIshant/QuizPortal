@@ -1,0 +1,94 @@
+.navbar-cls {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #f0f8ff;
+  }
+  
+  .footer-cls {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    /* color: white; */
+  }
+  .footer-text {
+    color: black;
+    font-size: 15px;
+  }
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 1.6em;
+    background-color: #f4f4f4;
+  }
+  li {
+    list-style: none;
+  }
+  
+  .navbar-text {
+    font-size: 2rem;
+    font-weight: 400;
+    color: #007bff;
+    font-family: "Times New Roman", Times, serif;
+  }
+  .btnlogout {
+    border-radius: 5px;
+    border: none;
+    border: 1px solid black;
+    width: 6rem;
+    height: 2rem;
+    background: white;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  footer {
+    height: 60px;
+    padding: 0 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid lightgrey;
+  }
+  
+  /* login css */
+  
+  .row {
+    background: white;
+    border-radius: 30px;
+    /* box-shadow: 12px 12px 22px; */
+  }
+  .login img {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+  }
+  .login h1 {
+    font-size: 2rem;
+    font-weight: 400;
+    font-family: "Pacifico", cursive;
+  }
+  
+  .underline-cls {
+    color: black;
+    text-decoration: none;
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    /* font-family: "Pacifico"; */
+  }
+  .underline-cls:hover {
+    color: black;
+    text-decoration: none;
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    /* font-family: "Pacifico"; */
+  }
+  .teal-color {
+    color:teal;
+  }
+  .red-color {
+    color:red;
+  }
+
+
+  
+
+

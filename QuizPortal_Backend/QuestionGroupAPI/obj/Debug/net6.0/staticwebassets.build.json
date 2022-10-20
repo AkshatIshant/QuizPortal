@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2DtKNyziwj7A7Fb8z4uk5b6bRMX/J0pUtwU3Vwlf3QA=",
+  "Source": "QuestionGroupMicroserviceAPI",
+  "BasePath": "_content/QuestionGroupMicroserviceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

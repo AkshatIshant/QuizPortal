@@ -1,0 +1,461 @@
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\appsettings.json
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\UserMicroserviceAPI.exe
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\UserMicroserviceAPI.deps.json
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\UserMicroserviceAPI.runtimeconfig.json
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\UserMicroserviceAPI.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\UserMicroserviceAPI.pdb
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Humanizer.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\at69458\Desktop\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\at69458\Desktop\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.AssemblyReference.cache
+C:\Users\at69458\Desktop\User\obj\Debug\net6.0\UserMicroserviceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\at69458\Desktop\User\obj\Debug\net6.0\UserMicroserviceAPI.AssemblyInfoInputs.cache
+C:\Users\at69458\Desktop\User\obj\Debug\net6.0\UserMicroserviceAPI.AssemblyInfo.cs
+C:\Users\at69458\Desktop\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.CoreCompileInputs.cache
+C:\Users\at69458\Desktop\User\obj\Debug\net6.0\UserMicroserviceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\at69458\Desktop\User\obj\Debug\net6.0\UserMicroserviceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\at69458\Desktop\User\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\at69458\Desktop\User\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\at69458\Desktop\User\obj\Debug\net6.0\scopedcss\bundle\UserMicroserviceAPI.styles.css
+C:\Users\at69458\Desktop\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.CopyComplete
+C:\Users\at69458\Desktop\User\obj\Debug\net6.0\UserMicroserviceAPI.dll
+C:\Users\at69458\Desktop\User\obj\Debug\net6.0\refint\UserMicroserviceAPI.dll
+C:\Users\at69458\Desktop\User\obj\Debug\net6.0\UserMicroserviceAPI.pdb
+C:\Users\at69458\Desktop\User\obj\Debug\net6.0\UserMicroserviceAPI.genruntimeconfig.cache
+C:\Users\at69458\Desktop\User\obj\Debug\net6.0\ref\UserMicroserviceAPI.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\appsettings.json
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\UserMicroserviceAPI.exe
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\UserMicroserviceAPI.deps.json
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\UserMicroserviceAPI.runtimeconfig.json
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\UserMicroserviceAPI.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\UserMicroserviceAPI.pdb
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Humanizer.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\at69458\source\repos\ExamPortal\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\at69458\source\repos\ExamPortal\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.AssemblyReference.cache
+C:\Users\at69458\source\repos\ExamPortal\User\obj\Debug\net6.0\UserMicroserviceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\at69458\source\repos\ExamPortal\User\obj\Debug\net6.0\UserMicroserviceAPI.AssemblyInfoInputs.cache
+C:\Users\at69458\source\repos\ExamPortal\User\obj\Debug\net6.0\UserMicroserviceAPI.AssemblyInfo.cs
+C:\Users\at69458\source\repos\ExamPortal\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.CoreCompileInputs.cache
+C:\Users\at69458\source\repos\ExamPortal\User\obj\Debug\net6.0\UserMicroserviceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\at69458\source\repos\ExamPortal\User\obj\Debug\net6.0\UserMicroserviceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\at69458\source\repos\ExamPortal\User\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\at69458\source\repos\ExamPortal\User\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\at69458\source\repos\ExamPortal\User\obj\Debug\net6.0\scopedcss\bundle\UserMicroserviceAPI.styles.css
+C:\Users\at69458\source\repos\ExamPortal\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.CopyComplete
+C:\Users\at69458\source\repos\ExamPortal\User\obj\Debug\net6.0\UserMicroserviceAPI.dll
+C:\Users\at69458\source\repos\ExamPortal\User\obj\Debug\net6.0\refint\UserMicroserviceAPI.dll
+C:\Users\at69458\source\repos\ExamPortal\User\obj\Debug\net6.0\UserMicroserviceAPI.pdb
+C:\Users\at69458\source\repos\ExamPortal\User\obj\Debug\net6.0\UserMicroserviceAPI.genruntimeconfig.cache
+C:\Users\at69458\source\repos\ExamPortal\User\obj\Debug\net6.0\ref\UserMicroserviceAPI.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\appsettings.json
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.exe
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.deps.json
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.runtimeconfig.json
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.pdb
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Humanizer.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.AssemblyReference.cache
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.AssemblyInfoInputs.cache
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.AssemblyInfo.cs
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.CoreCompileInputs.cache
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\obj\Debug\net6.0\scopedcss\bundle\UserMicroserviceAPI.styles.css
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.CopyComplete
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\obj\Debug\net6.0\refint\UserMicroserviceAPI.dll
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.pdb
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.genruntimeconfig.cache
+C:\Users\at69458\source\repos\ExamPortal_UserAPI\User\obj\Debug\net6.0\ref\UserMicroserviceAPI.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\appsettings.json
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.exe
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.deps.json
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.runtimeconfig.json
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.pdb
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.AssemblyReference.cache
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.AssemblyInfoInputs.cache
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.AssemblyInfo.cs
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.CoreCompileInputs.cache
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\obj\Debug\net6.0\scopedcss\bundle\UserMicroserviceAPI.styles.css
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.CopyComplete
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\obj\Debug\net6.0\refint\UserMicroserviceAPI.dll
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.pdb
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.genruntimeconfig.cache
+C:\Users\ai69452\Desktop\Our TDD folder\ExamPortal_UserMicroserviceAPI\ExamPortal_UserMicroserviceAPI\User\obj\Debug\net6.0\ref\UserMicroserviceAPI.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\appsettings.json
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.exe
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.deps.json
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.runtimeconfig.json
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.pdb
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.AssemblyReference.cache
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.AssemblyInfoInputs.cache
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.AssemblyInfo.cs
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.CoreCompileInputs.cache
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\scopedcss\bundle\UserMicroserviceAPI.styles.css
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.CopyComplete
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\refint\UserMicroserviceAPI.dll
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.pdb
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.genruntimeconfig.cache
+C:\Users\ai69452\Pictures\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\ref\UserMicroserviceAPI.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\appsettings.Development.json
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\appsettings.json
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.exe
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.deps.json
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.runtimeconfig.json
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.pdb
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\AutoMapper.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Humanizer.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.AssemblyReference.cache
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.AssemblyInfoInputs.cache
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.AssemblyInfo.cs
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.CoreCompileInputs.cache
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\staticwebassets.build.json
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\staticwebassets.development.json
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\scopedcss\bundle\UserMicroserviceAPI.styles.css
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.CopyComplete
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\refint\UserMicroserviceAPI.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.pdb
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.genruntimeconfig.cache
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\obj\Debug\net6.0\ref\UserMicroserviceAPI.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\JwtAuthenticationManager.dll
+D:\Exam-Portal(all files)\All microservice in one solution\ExamPortalAPI\ExamPortalAPI\User\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\appsettings.Development.json
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\appsettings.json
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.exe
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.deps.json
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.runtimeconfig.json
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\UserMicroserviceAPI.pdb
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\AutoMapper.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Humanizer.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\JwtAuthenticationManager.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.AssemblyReference.cache
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.AssemblyInfoInputs.cache
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.AssemblyInfo.cs
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.CoreCompileInputs.cache
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\obj\Debug\net6.0\staticwebassets.build.json
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\obj\Debug\net6.0\staticwebassets.development.json
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\obj\Debug\net6.0\scopedcss\bundle\UserMicroserviceAPI.styles.css
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.csproj.CopyComplete
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\obj\Debug\net6.0\refint\UserMicroserviceAPI.dll
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.pdb
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\obj\Debug\net6.0\UserMicroserviceAPI.genruntimeconfig.cache
+D:\Exam-Portal(BackEnd)\All microservice in one solution\ExamPortalAPI\User\obj\Debug\net6.0\ref\UserMicroserviceAPI.dll

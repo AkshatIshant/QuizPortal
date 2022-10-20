@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mNZ1wG6nr4YcT+rNT4vE0r96l7uMGOYL+fSx370G9cs=",
+  "Source": "QuizMicroserviceAPI",
+  "BasePath": "_content/QuizMicroserviceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

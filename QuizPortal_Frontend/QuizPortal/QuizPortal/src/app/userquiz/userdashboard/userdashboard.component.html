@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
+      integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
+    <title>Online Exam!</title>
+</head>
+
+<div class="navbar-cls">
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container-fluid">
+      <a class="navbar-brand navbar-text" routerLink="/userdashboard"
+        >Zensar Technologies - Online Exam Portal</a
+      >
+      <div class="d-flex">
+        <button id="logoutbtn" class="btn btn-secondary m-1" type="submit"  (click)="logout()">LOGOUT</button>        
+      </div>
+    </div>
+  </nav>
+</div>
+
+<body>
+  <body class="bg-light">
+    <section class="login py-2 bg-light">
+      <div class="container">
+        <div class="row g-0 mt-5">
+          <div class="col-lg-5 col-md-5 col-sm-12 col-12">
+            <img
+              src="https://freevector-images.s3.amazonaws.com/uploads/vector/preview/40328/WORKING_AT_KITCHEN.jpg"
+              class="img-fluid"
+              alt="user-image"
+            />
+          </div>
+          <div class="col-lg-7 col-md-7 col-sm-12 col-12 text-center py-5">
+            <h1 class="animate__animated animate__heartBeat">
+              Welcome to Dashboard
+            </h1>
+
+            <div style="margin-top: 2rem">
+              <a routerLink="/userprofile" class="underline-cls">My profile</a
+              ><br /><br />
+
+              <a routerLink="/quizstart" class="underline-cls"   >
+                Go to Quizzes</a
+              ><br /><br />
+              
+              <a routerLink="/userresult" class="underline-cls">My results</a
+              ><br />
+              <br />
+             
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+   
+  </body>
+  
+</body>
+
+<!-- <div class="footer-cls">
+  <footer>
+    <div class="footer-text">
+      COPYRIGHT © 2022 ALL RIGHTS RESERVED. DEVELOPED BY ZENSAR TECHNOLOGIES
+    </div>
+  </footer>
+</div> -->
+</html>

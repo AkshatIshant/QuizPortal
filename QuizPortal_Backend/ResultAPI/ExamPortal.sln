@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResultMicroserviceAPI", "ResultMicroserviceAPI.csproj", "{96974173-CF98-4867-8EA3-C47BF2B25507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResultTestsAPI", "..\..\..\test\ExamPortal.Tests\ResultTestsAPI.csproj", "{F55461D8-CDE2-4CB4-9342-605C0EE9BFEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96974173-CF98-4867-8EA3-C47BF2B25507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96974173-CF98-4867-8EA3-C47BF2B25507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96974173-CF98-4867-8EA3-C47BF2B25507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96974173-CF98-4867-8EA3-C47BF2B25507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F55461D8-CDE2-4CB4-9342-605C0EE9BFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55461D8-CDE2-4CB4-9342-605C0EE9BFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55461D8-CDE2-4CB4-9342-605C0EE9BFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55461D8-CDE2-4CB4-9342-605C0EE9BFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {640FF555-5861-42FE-8801-CE85C898575B}
+	EndGlobalSection
+EndGlobal
